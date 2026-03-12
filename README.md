@@ -86,7 +86,7 @@ Ensure you have the following installed:
 5. **Set your Groq API key in `.env`**
    ```dotenv
    GROQ_API_KEY=your_groq_api_key_here
-   GROQ_MODEL_NAME=whisper-large-v3-turbo
+   GROQ_MODEL_NAME=llama-3.3-70b-versatile
    ```
 
 6. **Start MongoDB**
