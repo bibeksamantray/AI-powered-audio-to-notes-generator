@@ -59,7 +59,7 @@ Ensure you have the following installed:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/audio-to-notes-generator.git
-   cd audio-to-notes-generator
+   cd AI-audio-to-notes-generator
    ```
 
 2. **Create virtual environment**
@@ -116,7 +116,7 @@ Ensure you have the following installed:
 ## 📁 Project Structure
 
 ```
-audio-to-notes-generator/
+AI-audio-to-notes-generator/
 ├── backend/
 │   └── app/
 │       ├── routers/          # API endpoints
