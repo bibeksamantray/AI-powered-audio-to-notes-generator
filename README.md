@@ -195,14 +195,14 @@ WHISPER_MODEL_SIZE = "small"
 
 # Groq settings
 GROQ_API_KEY = "your_groq_api_key_here"
-GROQ_MODEL_NAME = "whisper-large-v3-turbo"
+GROQ_MODEL_NAME = "llama-3.3-70b-versatile"
 ```
 
 ### Groq Model
 
 Default model used by the app:
 
-- `whisper-large-v3-turbo`
+- `llama-3.3-70b-versatile`
 
 ---
 
