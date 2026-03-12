@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+motor
+pydantic
+faster-whisper
+groq
+reportlab
+python-multipart
+dnspython
+pydantic-settings
