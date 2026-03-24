@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+*.egg-info/
+.eggs/
+
+# Environments
+.venv/
+venv/
+ENV/
+.env
+.env.*
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Build / packaging / logs
+.dist/
+dist/
+build/
+*.log
+
+# Data outputs
+/data/audio/
+/data/exports/
+/data/users/
+
+# FastAPI / uvicorn
+*.sqlite3
+
+# Coverage / test
+htmlcov/
+.coverage*
+.pytest_cache/
